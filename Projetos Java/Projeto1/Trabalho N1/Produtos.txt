@@ -1,0 +1,6 @@
+1234;Placa Nvidia 3050 Super;350.95
+54789;Geladeira Electrolux Frostfree;150.75
+1089;Mouse Razer DeathAdder Elite;100.25
+1907;Garrafinha de água Growth;6.75
+103;Barra de proteína Integral Médica;3.50
+6969;Jogo PC-Steam Elden Ring;50.00
