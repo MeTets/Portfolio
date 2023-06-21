@@ -11,4 +11,4 @@
 
 # Habilidades
 
-Eu tenho um bom conhecimento em diversas metedologias de desenvolvimento como, metodologia Ágil, XP, Cascata e RUP. Já trabalhei com arquiteturas de sistemas e Data Science.</p>
+Eu tenho um bom conhecimento em diversas metedologias de desenvolvimento como, metodologia Ágil, XP, Cascata e RUP, alem disso, já trabalhei com arquiteturas de sistemas e Data Science.</p>
