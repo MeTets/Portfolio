@@ -11,4 +11,11 @@
 
 # Habilidades
 
-Eu tenho um bom conhecimento em diversas metedologias de desenvolvimento como, metodologia Ágil, XP, Cascata e RUP, alem disso, já trabalhei com arquiteturas de sistemas e Data Science.</p>
+Eu tenho um bom conhecimento em diversas metedologias de desenvolvimento como, metodologia Ágil, XP, Cascata e RUP. 
+
+<br/>
+
+# Experiências no Mercado de Trabalho
+
+A minha experiência no mercado de trabalho ainda é pequena, mas ela foi e vem sendo uma grande fonte de conhecimento profissional, técnico e pessoal. Quanto as minhas atividades, eu trabalho como estagiário em Data Science, mas eu tenho feito vários trabalhos que fogem do escopo da área de dados, sendo a maior parte voltado para o desenvolvimento de aplicações, arquitetura e infraestrutura de sistemas.
+
