@@ -7,6 +7,7 @@
 * Base de dados (Oracle, SQL Sever, PostgreeSQL)
 * Contrução de várias estruturas de dados
 
+
 # Habilidades
 
 Eu tenho um bom conhecimento em diversas metedologias de desenvolvimento como, metodologia Ágil, XP, Cascata e RUP. Já trabalhei com arquiteturas de sistemas e Data Science.</p>
