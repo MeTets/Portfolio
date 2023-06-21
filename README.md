@@ -11,10 +11,10 @@
 
 # Habilidades
 
-<p><b>1.</b> Eu tenho um bom conhecimento em diversas metedologias de desenvolvimento como, metodologia Ágil, XP, Cascata e RUP.</p>
-<p><b>2.</b>Conheço os sistemas de computação em nuvem da AWS e Azure.</p>
-<p><b>3.</b>Trabalho diariamente com todas as ferramentas do pacote Office 365 </p>
-<p><b>4.</b>Exercito e trabalho o desenvolvimento continuo de aplicações através do GitHub e das ferramentas do Git</p>
+<p><b>1. </b>Eu tenho um bom conhecimento em diversas metedologias de desenvolvimento como, metodologia Ágil, XP, Cascata e RUP.</p>
+<p><b>2. </b>Conheço os sistemas de computação em nuvem da AWS e Azure.</p>
+<p><b>3. </b>Trabalho diariamente com todas as ferramentas do pacote Office 365 </p>
+<p><b>4. </b>Exercito e trabalho o desenvolvimento continuo de aplicações através do GitHub e das ferramentas do Git</p>
 
 <br/>
 
