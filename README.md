@@ -1,15 +1,11 @@
 # Portfólio
 
-<hr>
-
 <p>Boa tarde, <b>Entrevistador</b>, esse é o meu portifólio.</p>
 <p align="justify">Ele conta com diversos projetos construídos durante o meu período letivo na faculdade e a maior pate deles está escrito em Java, JavaScript, HTML e CSS. (Os Projetos de Python ainda não estão disponíveis). Os projetos são simples mas eles abrangem tópicos como:</p>
 
 * Frameworks
 * Base de dados (Oracle, SQL Sever, PostgreeSQL)
 * Contrução de várias estruturas de dados
-
-<hr>
 
 # Habilidades
 
